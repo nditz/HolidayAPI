@@ -1,0 +1,9 @@
+C:\Users\wandi\source\repos\HolidayApi\DataStorage.Library\bin\Debug\netcoreapp3.1\DataStorage.Library.deps.json
+C:\Users\wandi\source\repos\HolidayApi\DataStorage.Library\bin\Debug\netcoreapp3.1\DataStorage.Library.dll
+C:\Users\wandi\source\repos\HolidayApi\DataStorage.Library\bin\Debug\netcoreapp3.1\DataStorage.Library.pdb
+C:\Users\wandi\source\repos\HolidayApi\DataStorage.Library\obj\Debug\netcoreapp3.1\DataStorage.Library.AssemblyInfoInputs.cache
+C:\Users\wandi\source\repos\HolidayApi\DataStorage.Library\obj\Debug\netcoreapp3.1\DataStorage.Library.AssemblyInfo.cs
+C:\Users\wandi\source\repos\HolidayApi\DataStorage.Library\obj\Debug\netcoreapp3.1\DataStorage.Library.csproj.CoreCompileInputs.cache
+C:\Users\wandi\source\repos\HolidayApi\DataStorage.Library\obj\Debug\netcoreapp3.1\DataStorage.Library.dll
+C:\Users\wandi\source\repos\HolidayApi\DataStorage.Library\obj\Debug\netcoreapp3.1\DataStorage.Library.pdb
+C:\Users\wandi\source\repos\HolidayApi\DataStorage.Library\obj\Debug\netcoreapp3.1\DataStorage.Library.csprojAssemblyReference.cache
