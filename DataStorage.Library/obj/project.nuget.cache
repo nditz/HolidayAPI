@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n4XGjYQ8NIX2saETEKWSuREqVbEgw7KrJXp0SnXW+zmhgDFFg/6ijsYQy14D4jN5ifN3OUtz0xUezO9OYl8kOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wandi\\source\\repos\\HolidayApi\\DataStorage.Library\\DataStorage.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wandi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
